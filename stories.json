@@ -1,0 +1,359 @@
+{
+ "date": "2026-11-19",
+ "count": 43,
+ "region_counts": {
+  "EUROPE": 8,
+  "THE AMERICAS": 12,
+  "ASIA-PACIFIC": 12,
+  "MIDEAST": 5,
+  "AFRICA": 1,
+  "OCEANIA": 1,
+  "WORLD": 4
+ },
+ "stories": [
+  {
+   "n": 1,
+   "place": "SHENZHEN",
+   "topic": "SUMMIT",
+   "region": "ASIA-PACIFIC",
+   "headline": "Trump, Xi and Putin hold first three-way summit",
+   "sub": "The three nuclear powers meet at APEC in Shenzhen; arms control and the Iran war top the agenda."
+  },
+  {
+   "n": 2,
+   "place": "NEW YORK",
+   "topic": "GAMES",
+   "region": "WORLD",
+   "headline": "GTA VI arrives after a 13-year wait",
+   "sub": "Unlocks at midnight in each country. New Zealand first; 15.9m pre-orders banked."
+  },
+  {
+   "n": 3,
+   "place": "NASDAQ",
+   "topic": "MARKETS",
+   "region": "THE AMERICAS",
+   "headline": "Anthropic debuts in the biggest IPO on record",
+   "sub": "Priced at $83, above its range, the Claude maker raised $81.3bn and is valued near $1.5tn."
+  },
+  {
+   "n": 4,
+   "place": "THE HAGUE",
+   "topic": "LAW",
+   "region": "EUROPE",
+   "headline": "World Court rules on Myanmar's Rohingya case",
+   "sub": "The ICJ rules in The Gambia's case over the 2017 campaign."
+  },
+  {
+   "n": 5,
+   "place": "ANTALYA",
+   "topic": "CLIMATE",
+   "region": "ASIA-PACIFIC",
+   "headline": "COP31 enters its final 48 hours",
+   "sub": "Ministers take over the text; 'phase out' and a $120bn fund still open."
+  },
+  {
+   "n": 6,
+   "place": "CRIMEA",
+   "topic": "WAR",
+   "region": "EUROPE",
+   "headline": "Crimean Bridge hit again",
+   "sub": "Third attack halts traffic; the crossing is closed."
+  },
+  {
+   "n": 7,
+   "place": "ODISHA",
+   "topic": "STORM",
+   "region": "ASIA-PACIFIC",
+   "headline": "Akvan bears down as 200,000 flee the coast",
+   "sub": "Red alerts in 11 districts; landfall near Puri due Friday."
+  },
+  {
+   "n": 8,
+   "place": "KYIV",
+   "topic": "WAR",
+   "region": "EUROPE",
+   "headline": "Left off the agenda, Ukraine watches Shenzhen",
+   "sub": "The war is off the summit agenda; Kyiv fears being carved up."
+  },
+  {
+   "n": 9,
+   "place": "BRUSSELS",
+   "topic": "TRADE",
+   "region": "ASIA-PACIFIC",
+   "headline": "EU approves Indonesia trade pact",
+   "sub": "The deal opens digital trade; Jakarta calls it a milestone."
+  },
+  {
+   "n": 10,
+   "place": "CANBERRA",
+   "topic": "ECONOMY",
+   "region": "OCEANIA",
+   "headline": "Aussie jobless hits a five-year high",
+   "sub": "Unemployment at 4.9%, the highest since October 2021."
+  },
+  {
+   "n": 11,
+   "place": "PARIS",
+   "topic": "POLITICS",
+   "region": "EUROPE",
+   "headline": "France protests hit a fourth week",
+   "sub": "Strikes and marches continue; the government holds its line."
+  },
+  {
+   "n": 12,
+   "place": "ISTANBUL",
+   "topic": "WEATHER",
+   "region": "ASIA-PACIFIC",
+   "headline": "Istanbul floods kill three",
+   "sub": "Streets turn to rivers; rescue workers wade past submerged cars."
+  },
+  {
+   "n": 13,
+   "place": "BENGHAZI",
+   "topic": "CRIME",
+   "region": "AFRICA",
+   "headline": "Libya seizes a mountain of pills",
+   "sub": "Officials display one of the country's biggest drug hauls."
+  },
+  {
+   "n": 14,
+   "place": "WASHINGTON",
+   "topic": "BRIEF",
+   "region": "THE AMERICAS",
+   "headline": "Jeffries nominated Speaker.",
+   "sub": ""
+  },
+  {
+   "n": 15,
+   "place": "CARACAS",
+   "topic": "BRIEF",
+   "region": "THE AMERICAS",
+   "headline": "US and Venezuela restore ties.",
+   "sub": ""
+  },
+  {
+   "n": 16,
+   "place": "OTTAWA",
+   "topic": "BRIEF",
+   "region": "THE AMERICAS",
+   "headline": "Canada sanctions West Bank settlers.",
+   "sub": ""
+  },
+  {
+   "n": 17,
+   "place": "TOKYO",
+   "topic": "BRIEF",
+   "region": "ASIA-PACIFIC",
+   "headline": "India and Japan review defence ties.",
+   "sub": ""
+  },
+  {
+   "n": 18,
+   "place": "JERUSALEM",
+   "topic": "BRIEF",
+   "region": "MIDEAST",
+   "headline": "Eisenkot tapped to form a government.",
+   "sub": ""
+  },
+  {
+   "n": 19,
+   "place": "MANILA",
+   "topic": "BRIEF",
+   "region": "ASIA-PACIFIC",
+   "headline": "US and Philippines sign a $2bn deal.",
+   "sub": ""
+  },
+  {
+   "n": 20,
+   "place": "WASHINGTON",
+   "topic": "BRIEF",
+   "region": "MIDEAST",
+   "headline": "US sanctions a Hezbollah network.",
+   "sub": ""
+  },
+  {
+   "n": 21,
+   "place": "WASHINGTON",
+   "topic": "BRIEF",
+   "region": "THE AMERICAS",
+   "headline": "Russian charged in a US spy case.",
+   "sub": ""
+  },
+  {
+   "n": 22,
+   "place": "GAZA",
+   "topic": "BRIEF",
+   "region": "MIDEAST",
+   "headline": "Allies urge aid access; crossings shut.",
+   "sub": ""
+  },
+  {
+   "n": 23,
+   "place": "GAZA",
+   "topic": "BRIEF",
+   "region": "MIDEAST",
+   "headline": "Israel pushes past the line; Hamas objects.",
+   "sub": ""
+  },
+  {
+   "n": 24,
+   "place": "PYONGYANG",
+   "topic": "BRIEF",
+   "region": "ASIA-PACIFIC",
+   "headline": "North Korea expands uranium enrichment.",
+   "sub": ""
+  },
+  {
+   "n": 25,
+   "place": "NEW YORK",
+   "topic": "BRIEF",
+   "region": "THE AMERICAS",
+   "headline": "Van Gogh sells for $190m at auction.",
+   "sub": ""
+  },
+  {
+   "n": 26,
+   "place": "SANTA CLARA",
+   "topic": "BRIEF",
+   "region": "THE AMERICAS",
+   "headline": "Nvidia chief promises pay rises.",
+   "sub": ""
+  },
+  {
+   "n": 27,
+   "place": "SEATTLE",
+   "topic": "BRIEF",
+   "region": "THE AMERICAS",
+   "headline": "Microsoft and ByteDance open AI talks.",
+   "sub": ""
+  },
+  {
+   "n": 28,
+   "place": "NEW DELHI",
+   "topic": "BRIEF",
+   "region": "ASIA-PACIFIC",
+   "headline": "Apple Maps upgrade rolls out in India.",
+   "sub": ""
+  },
+  {
+   "n": 29,
+   "place": "KUALA LUMPUR",
+   "topic": "BRIEF",
+   "region": "ASIA-PACIFIC",
+   "headline": "Malaysia's GDP grows 5.5%.",
+   "sub": ""
+  },
+  {
+   "n": 30,
+   "place": "LONDON",
+   "topic": "BRIEF",
+   "region": "EUROPE",
+   "headline": "UK cyber reports near a record.",
+   "sub": ""
+  },
+  {
+   "n": 31,
+   "place": "WASHINGTON",
+   "topic": "BRIEF",
+   "region": "THE AMERICAS",
+   "headline": "FBI warns of a new AI hacking tool.",
+   "sub": ""
+  },
+  {
+   "n": 32,
+   "place": "BRUSSELS",
+   "topic": "BRIEF",
+   "region": "EUROPE",
+   "headline": "EU states propose a Rwanda asylum plan.",
+   "sub": ""
+  },
+  {
+   "n": 33,
+   "place": "RIYADH",
+   "topic": "BRIEF",
+   "region": "MIDEAST",
+   "headline": "Oil prices fall as supplies improve.",
+   "sub": ""
+  },
+  {
+   "n": 34,
+   "place": "PHOENIX",
+   "topic": "BRIEF",
+   "region": "THE AMERICAS",
+   "headline": "Waymo pulls driverless cars after a crash.",
+   "sub": ""
+  },
+  {
+   "n": 35,
+   "place": "SPACE",
+   "topic": "BRIEF",
+   "region": "WORLD",
+   "headline": "Two stars merge in Andromeda.",
+   "sub": ""
+  },
+  {
+   "n": 36,
+   "place": "SPACE",
+   "topic": "BRIEF",
+   "region": "WORLD",
+   "headline": "Twin black holes found circling each other.",
+   "sub": ""
+  },
+  {
+   "n": 37,
+   "place": "WASHINGTON",
+   "topic": "BRIEF",
+   "region": "WORLD",
+   "headline": "Pew: Islam to top world faiths by 2035.",
+   "sub": ""
+  },
+  {
+   "n": 38,
+   "place": "BRUSSELS",
+   "topic": "BRIEF",
+   "region": "EUROPE",
+   "headline": "EU plans a €45bn loan for Ukraine.",
+   "sub": ""
+  },
+  {
+   "n": 39,
+   "place": "NASHVILLE",
+   "topic": "BRIEF",
+   "region": "THE AMERICAS",
+   "headline": "Swift steals the CMA Awards.",
+   "sub": ""
+  },
+  {
+   "n": 40,
+   "place": "NEW DELHI",
+   "topic": "BRIEF",
+   "region": "ASIA-PACIFIC",
+   "headline": "Sindhu back in the top five.",
+   "sub": ""
+  },
+  {
+   "n": 41,
+   "place": "SÃO PAULO",
+   "topic": "BRIEF",
+   "region": "THE AMERICAS",
+   "headline": "Corinthians thrash Botafogo 4-0.",
+   "sub": ""
+  },
+  {
+   "n": 42,
+   "place": "TALLINN",
+   "topic": "BRIEF",
+   "region": "EUROPE",
+   "headline": "Estonia to shut its Russia border.",
+   "sub": ""
+  },
+  {
+   "n": 43,
+   "place": "NEW DELHI",
+   "topic": "BRIEF",
+   "region": "ASIA-PACIFIC",
+   "headline": "Delhi schools reopen as the air clears.",
+   "sub": ""
+  }
+ ]
+}
